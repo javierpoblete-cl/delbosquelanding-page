@@ -1,0 +1,26 @@
+[
+  {
+    "id": "jabon-mecanico",
+    "name": "Jabón mecánico",
+    "category": "Limpieza de manos",
+    "description": "Una línea para las necesidades de limpieza de manos en el trabajo mecánico. Consulta la formulación y sus indicaciones antes de elegir.",
+    "price": null,
+    "format": null
+  },
+  {
+    "id": "antihongos",
+    "name": "Antihongos",
+    "category": "Cuidado de superficies",
+    "description": "Consulta la alternativa adecuada para tu superficie y las condiciones de aplicación indicadas en la etiqueta del producto.",
+    "price": null,
+    "format": null
+  },
+  {
+    "id": "desinfectantes",
+    "name": "Desinfectantes",
+    "category": "Desinfección",
+    "description": "Cuéntanos dónde necesitas aplicar el producto para consultar sus usos autorizados, presentación e información técnica.",
+    "price": null,
+    "format": null
+  }
+]
