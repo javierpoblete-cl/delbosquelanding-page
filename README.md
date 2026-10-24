@@ -11,10 +11,17 @@ Sitio estático en HTML, CSS y JavaScript. Rama de revisión `desarrollo-web`; n
 
 Los gráficos son composiciones tipográficas, no fotografías ni representaciones del envase real. La marca tipográfica es provisional. No hay checkout, backend, analítica ni almacenamiento de datos del formulario. La consulta se pierde al recargar o abandonar la página; no se envía automáticamente ningún mensaje.
 
+## Antecedentes confirmados por Javier
+- La empresa fabrica y distribuye de forma directa.
+- WhatsApp: +56 9 9822 0830. Dirección: Vecinal 797, El Bosque, Santiago.
+- Cliente informado: MSA Ltda. Pendiente autorización para publicar su nombre o logo y lista completa de clientes. No se muestra todavía en la página.
+- Posible cobertura: todo Santiago, sin confirmar. El sitio solicita consultar cobertura por comuna.
+- Logo existente aún no recibido. Evaluar rediseño o creación de identidad como servicio adicional en la propuesta comercial; mantener marca tipográfica provisional.
+
 ## Pendientes del cliente
-1. Logo, fotografías y envases reales.
-2. Confirmar razón social, RUT, teléfono +56 9 9822 0830 y dirección Vecinal 797, El Bosque, copiados de la landing original.
-3. Confirmar si fabrica, distribuye o ambas; historia, año de inicio e hitos verificables. Se retiró el año 2019 y cifras de experiencia hasta validación.
+1. Obtener logo existente y evaluar propuesta de identidad; fotografías y envases reales.
+2. Confirmar razón social y RUT, copiados de la landing original. Teléfono y dirección ya confirmados.
+3. Recibir historia, año de inicio e hitos verificables. Se retiró el año 2019 y cifras de experiencia hasta validación.
 4. Clientes autorizados, logos y testimonios con consentimiento. No se inventaron referencias.
 5. Productos finales: nombre, categoría, descripción aprobada, SKU, formatos, precio por formato, IVA, disponibilidad, imágenes, fichas técnicas, HDS, etiquetas y registros aplicables.
 6. Condiciones de entrega/retiro, cobertura, mínimo de compra, horario y medios de pago.
